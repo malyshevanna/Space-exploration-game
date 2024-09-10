@@ -4,7 +4,7 @@
 Space Exploration is a fun, simple game I created just for the joy of coding and my love for space themes. It's a personal project that combines chance, resource management, and cosmic graphics.
 
 ## Game in a Nutshell
-![](ISpace-exploration-game/screenshots/Screenshot4.png)
+![Visuals](ISpace-exploration-game/screenshots/Screenshot4.png)
 - Explore space sectors
 - Manage your credits (fuel)
 - Discover various space objects
