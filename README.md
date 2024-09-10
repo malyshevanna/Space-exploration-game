@@ -22,5 +22,6 @@ I built this game purely for fun and to learn some Python. It was a great way to
 - Python
 - Tkinter for GUI
 
+![Game](ISpace-exploration-game/screenshots/Screenshot1.png)
 
 
